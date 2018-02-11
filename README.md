@@ -9,14 +9,12 @@ Ionic2, Angular2, Typescript, SASS
 
 Inicio:
 
-![Image of inicio](imagenes/inicio.PNG)
-Panel:
+![Image of inicio](imagenes/pendientes.PNG)
+Completados:
 
 ![Image of inicio](imagenes/inicio.PNG)
-Perfil:
+Agregar Listas:
 
-![Image of inicio](imagenes/inicio.PNG)
-Tareas:
+![Image of inicio](imagenes/agregar lista.PNG)
 
-![Image of inicio](imagenes/inicio.PNG)
 
