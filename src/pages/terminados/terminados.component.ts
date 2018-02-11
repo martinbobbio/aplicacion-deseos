@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ListService } from '../../app/services/list.service';
 
 import { NavController } from 'ionic-angular';
 import { DetailListComponent} from '../detail-list/detail-list.component';
@@ -10,8 +11,8 @@ import { DetailListComponent} from '../detail-list/detail-list.component';
 
 export class TerminadosComponent implements OnInit{
     
-    constructor(private navCtonroller:NavController){
-
+    constructor(private listService:ListService, private navCtonroller:NavController){
+        console.log(this.listService);
     }
 
     ngOnInit(){

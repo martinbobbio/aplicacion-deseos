@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ListService } from '../../app/services/list.service';
 
 import { NavController } from 'ionic-angular';
 import { AddListComponent} from '../add-list/add-list.component';
@@ -11,8 +12,8 @@ import { DetailListComponent} from '../detail-list/detail-list.component';
 
 export class PendientesComponent implements OnInit{
     
-    constructor(private navCtonroller:NavController){
-
+    constructor(private listService:ListService, private navCtonroller:NavController){
+        console.log(this.listService);
     }
 
     ngOnInit(){
