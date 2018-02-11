@@ -12,9 +12,9 @@ Inicio:
 ![Image of inicio](imagenes/pendientes.PNG)
 Completados:
 
-![Image of inicio](imagenes/inicio.PNG)
+![Image of inicio](imagenes/completados.PNG)
 Agregar Listas:
 
-![Image of inicio](imagenes/agregar lista.PNG)
+![Image of inicio](imagenes/agregar.PNG)
 
 
