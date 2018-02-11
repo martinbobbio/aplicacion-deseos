@@ -10,9 +10,11 @@ Ionic2, Angular2, Typescript, SASS
 Inicio:
 
 ![Image of inicio](imagenes/pendientes.PNG)
+<br /><br />
 Completados:
 
 ![Image of inicio](imagenes/completados.PNG)
+<br /><br />
 Agregar Listas:
 
 ![Image of inicio](imagenes/agregar.PNG)
