@@ -16,6 +16,9 @@ Tecnologias usadas:
 - Typescript
 - Sass
 
+
+# Capturas
+
 ### Inicio
 
 ![Image of inicio](imagenes/pendientes.PNG)
